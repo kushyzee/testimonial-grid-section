@@ -49,7 +49,7 @@ body {
 }
 
 .one {
-    background: url(/images/bg-pattern-quotation.svg), var(--violet);
+    background: url(images/bg-pattern-quotation.svg), var(--violet);
     background-repeat: no-repeat;
     background-position: 90% 0%;
 }
