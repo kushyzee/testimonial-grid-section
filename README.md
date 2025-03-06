@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/kushyzee/testimonial-grid-section)
-- Live Site URL: [github pages](https://kushyzee.github.io/testimonial-grid-section/)
+- Live Site: [github pages](https://kushyzee.github.io/testimonial-grid-section/)
 
 ## My process
 
